@@ -7,3 +7,8 @@
 - 💬 Ask me about anything tech related
 - ⚡ Fun fact: The Firefox logo isn't a fox… it's a red panda!
 
+## 
+
+![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=jedirhymetrix&count_private=true&show_icons=true&theme=radical)
+
+
