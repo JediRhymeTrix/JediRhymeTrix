@@ -11,6 +11,6 @@
 
 ![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=jedirhymetrix&include_all_commits=true&count_private=true&show_icons=true&theme=radical)
 
-[![Vedant's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jedirhymetrix)](https://github.com/anuraghazra/github-readme-stats)
+[![Vedant's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jedirhymetrix)](https://wakatime.com/@JediRhymeTrix)
 
 ![](https://hit.yhype.me/github/profile?user_id=26216205)
