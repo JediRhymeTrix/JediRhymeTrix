@@ -9,6 +9,8 @@
 
 ## 
 
+![counter](https://enkxu1slpcm1izp.m.pipedream.net)
+
 ![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=jedirhymetrix&include_all_commits=true&count_private=true&show_icons=true&theme=radical)
 
 [![wakatime](https://wakatime.com/badge/user/efc06740-1227-4279-ba04-cf3d605bcffb.svg)](https://wakatime.com/@efc06740-1227-4279-ba04-cf3d605bcffb)
