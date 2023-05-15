@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on getting my **Master's degree in Computer Science** with a focus on **Data Analytics** from the **University of Houston**.
-- 🌱 I’m currently learning as much as I can, but specifically, Machine Learning, Computer Vision, Natural Language Processing, and Big Data Analytics, amongst others...
+- 🎓 I recently graduated with a **Master's degree in Computer Science** with a focus on **Data Analytics** from the **University of Houston**.
+- 🌱 I'm always looking to learn more, but currently, I'm interested in exploring opportunities in **Software/Data Engineering**, **Machine Learning**, **Computer Vision**, **Natural Language Processing**, and **Big Data Analytics**, among others.
 - 👯 I’m looking to collaborate on anything that piques my interest.
 - 💬 Ask me about anything tech related
 - ⚡ Fun fact: The Firefox logo isn't a fox… it's a red panda!
