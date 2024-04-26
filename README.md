@@ -7,6 +7,8 @@
 - 💬 Ask me about anything tech-related
 - ⚡ Fun fact: The Firefox logo isn't a fox… It's a red panda!
 
+*Hakuna automatata!*
+
 ## 
 
 ![counter](https://enkxu1slpcm1izp.m.pipedream.net)
