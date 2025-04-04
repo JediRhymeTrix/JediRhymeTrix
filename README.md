@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 👾 I am Vedant, writer of code, and occasional bug developer.
+- 🫡 I am Vedant, writer of code, and occasional bug developer.
 - 🌱 I'm always looking to learn more, but currently, I'm interested in exploring opportunities in **Software/Data Engineering**, **Machine Learning**, **Computer Vision**, **Natural Language Processing**, and **Big Data Analytics**, among others.
 - 👯 I’m looking to collaborate on anything that piques my interest.
 - 💬 Ask me about anything tech-related
