@@ -19,10 +19,11 @@
   <img alt="github-snake" src="dist/ocean.gif" />
 </picture>
 
-![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=jedirhymetrix&include_all_commits=true&count_private=true&show_icons=true&theme=radical)
+![Vedant's GitHub stats](https://githubcard.com/JediRhymeTrix.svg?d=ubGlIJl-)
 
 [![wakatime](https://wakatime.com/badge/user/efc06740-1227-4279-ba04-cf3d605bcffb.svg)](https://wakatime.com/@efc06740-1227-4279-ba04-cf3d605bcffb)
 
-[![Vedant's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jedirhymetrix)](https://wakatime.com/@JediRhymeTrix)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ![](https://hit.yhype.me/github/profile?user_id=26216205)
