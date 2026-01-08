@@ -19,7 +19,7 @@
   <img alt="github-snake" src="dist/ocean.gif" />
 </picture>
 
-![Vedant's GitHub stats](https://githubcard.com/JediRhymeTrix.svg?d=ubGlIJl-)
+![Vedant's GitHub stats](https://githubcard.com/JediRhymeTrix.svg?d=Qsc2dCtT)
 
 [![wakatime](https://wakatime.com/badge/user/efc06740-1227-4279-ba04-cf3d605bcffb.svg)](https://wakatime.com/@efc06740-1227-4279-ba04-cf3d605bcffb)
 
