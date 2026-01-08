@@ -16,10 +16,10 @@ jobs:
     build:
         runs-on: ubuntu-latest
         steps:
-            - name: Checkout master
+            - name: Checkout main
               uses: actions/checkout@v4
               with:
-                  ref: master
+                  ref: main
                   fetch-depth: 0
 
             - name: Generate snake
