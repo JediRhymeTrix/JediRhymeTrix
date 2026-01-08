@@ -23,7 +23,10 @@
 
 [![wakatime](https://wakatime.com/badge/user/efc06740-1227-4279-ba04-cf3d605bcffb.svg)](https://wakatime.com/@efc06740-1227-4279-ba04-cf3d605bcffb)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<picture><embed src=""></embed></picture>
+
+<picture>
+  <img alt="Wakatime Stats" src="https://wakatime.com/share/@JediRhymeTrix/0e071d08-ed24-429c-8f8e-891dc009bcdb.svg" />
+</picture>
 
 ![](https://hit.yhype.me/github/profile?user_id=26216205)
