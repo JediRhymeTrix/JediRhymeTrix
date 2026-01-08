@@ -13,6 +13,12 @@
 
 ![counter](https://enkxu1slpcm1izp.m.pipedream.net)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/contributions-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/contributions.svg" />
+  <img alt="github-snake" src="dist/ocean.gif" />
+</picture>
+
 ![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=jedirhymetrix&include_all_commits=true&count_private=true&show_icons=true&theme=radical)
 
 [![wakatime](https://wakatime.com/badge/user/efc06740-1227-4279-ba04-cf3d605bcffb.svg)](https://wakatime.com/@efc06740-1227-4279-ba04-cf3d605bcffb)
