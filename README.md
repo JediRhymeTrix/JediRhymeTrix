@@ -1,13 +1,18 @@
-### Hi there 👋
+### Hey, I'm Vedant 👋
 
+I build systems that scale, ship, and survive contact with production.  
+Part architect, part pragmatist, part chaos-tamer.
 
-- 🫡 I am Vedant, writer of code, and occasional bug developer.
-- 🌱 I'm always looking to learn more, but currently, I'm interested in exploring opportunities in **Software/Data Engineering**, **Machine Learning**, **Computer Vision**, **Natural Language Processing**, and **Big Data Analytics**, among others.
-- 👯 I’m looking to collaborate on anything that piques my interest.
-- 💬 Ask me about anything tech-related
-- ⚡ Fun fact: The Firefox logo isn't a fox… It's a red panda!
+- 🫡 Engineer focused on **high-leverage software** and **data-driven platforms**
+- 🧠 Deeply curious about **AI (Machine Learning, Computer Vision, Natural Language Processing)**, **Distributed Systems**, and **Big Data**
+- 🧱 I like solving hard problems at the intersection of **architecture, reliability, and velocity**
+- 🤝 Open to collaborations that are ambitious, technically meaningful, and a little audacious
+- 💬 Ask me about system design, backend engineering, ML-in-production, or scaling from 0→1 and 1→N
+- ⚡ Fun fact: The Firefox mascot isn't a fox… It's a red panda!
 
-*Hakuna automatata!*
+> Build boldly. Measure ruthlessly. Automate everything worth repeating.
+
+*Hakuna automatata!* ✨
 
 ## 
 
